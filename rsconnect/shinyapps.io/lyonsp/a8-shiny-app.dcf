@@ -1,0 +1,8 @@
+name: a8-shiny-app
+account: lyonsp
+server: shinyapps.io
+bundleId: 385172
+url: https://lyonsp.shinyapps.io/a8-shiny-app/
+when: 1456898090.25113
+asMultiple: FALSE
+asStatic: FALSE
